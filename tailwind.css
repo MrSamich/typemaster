@@ -22380,7 +22380,7 @@ video {
   font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 }
 
-.font-bar500 {
+.font-barlow {
   font-family: Barlow;
 }
 
@@ -53963,7 +53963,7 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .sm\:font-bar500 {
+  .sm\:font-barlow {
     font-family: Barlow;
   }
 
@@ -85194,7 +85194,7 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .md\:font-bar500 {
+  .md\:font-barlow {
     font-family: Barlow;
   }
 
@@ -116425,7 +116425,7 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .lg\:font-bar500 {
+  .lg\:font-barlow {
     font-family: Barlow;
   }
 
@@ -147656,7 +147656,7 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .xl\:font-bar500 {
+  .xl\:font-barlow {
     font-family: Barlow;
   }
 
@@ -178887,7 +178887,7 @@ video {
     font-family: ui-monospace, SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
   }
 
-  .\32xl\:font-bar500 {
+  .\32xl\:font-barlow {
     font-family: Barlow;
   }
 
