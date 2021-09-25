@@ -35,6 +35,8 @@ module.exports = {
                 'p22': '1.375rem',
                 'p83': '5.188rem',
                 'p12.5': '3.125rem',
+                'p26': '1.625rem',
+
             },
             height: {
                 'h331': '20.688rem',
@@ -42,13 +44,11 @@ module.exports = {
                 'h65': '4.063rem',
                 'h425': '26.563rem',
 
+
             },
             spacing: {
                 'space1': '1.375',
-
-            },
-            translate: {
-                '1/7': '1.875rem',
+                'space2': '1.875',
             },
 
             width: {
@@ -57,6 +57,8 @@ module.exports = {
                 'w220': '13.75rem',
                 'w65': '4.063rem',
                 'w478': '29.875rem',
+                'w214': '13.375rem',
+                'w445': '27.813rem',
 
             },
         },
