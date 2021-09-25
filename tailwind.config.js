@@ -31,6 +31,7 @@ module.exports = {
         'p60' : '3.75rem',
         'p111': '6.938rem',
         'p22': '1.375rem',
+        'p83': '5.188rem',
       },
       height:{
         'h331': '20.688rem',
