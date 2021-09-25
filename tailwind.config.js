@@ -45,7 +45,10 @@ module.exports = {
             },
             spacing: {
                 'space1': '1.375',
-                'x30': '1.875rem',
+
+            },
+            translate: {
+                '1/7': '1.875rem',
             },
 
             width: {
